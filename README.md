@@ -21,12 +21,14 @@ The objective is to understand how market sentiment impacts:
 
 ---
 
-## 📈 Key Metrics
+## 📈 Key Performance Metrics
 
-- **Total Trades:** 35,864  
-- **Total PnL:** 3,624,808.47  
-- **Overall Win Rate:** 42.86%  
-- **Model Accuracy:** 53%  
+| Metric | Value |
+|--------|--------|
+| Total Trades | 35,864 |
+| Total PnL | 3,624,808.47 |
+| Win Rate | 42.86% |
+| Model Accuracy | 53% | 
 
 ---
 
@@ -84,3 +86,4 @@ Further improvements can be achieved through:
 - Streamlit  
 - Scikit-learn  
 ---
+
